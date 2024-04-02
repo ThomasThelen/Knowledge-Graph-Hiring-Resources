@@ -10,9 +10,9 @@ Companies in private industry that regularly hire knowledge graph engineers.
 
 [VEsoft](https://vesoft.com/)
 
-[BigBear.ai](BigBear.ai)
+[BigBear.ai](https://careers.bigbear.ai/jobs)
 
-[Torch.AI](Torch.AI)
+[Torch.AI](https://www.torch.ai/careers)
 
 [Amazon](https://www.aboutamazon.com/)
 
