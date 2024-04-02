@@ -58,6 +58,10 @@ Companies in private industry that regularly hire knowledge graph engineers.
 
 [Intelligent Medical Objects](https://www.imohealth.com/)
 
+[Semantic Arts](https://www.semanticarts.com/careers/)
+
+[Semantic Partners](https://www.semanticpartners.com/hiring/)
+
 ## Database Vendors
 
 These companies hire developers to work on their graph database products; some hire consultants and solution engineers to onboard clients to their stack.
