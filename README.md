@@ -10,9 +10,9 @@ Companies in private industry that regularly hire knowledge graph engineers.
 
 [VEsoft](https://vesoft.com/)
 
-[BigBear.ai](BigBear.ai)
+[BigBear.ai](https://careers.bigbear.ai/jobs)
 
-[Torch.AI](Torch.AI)
+[Torch.AI](https://www.torch.ai/careers)
 
 [Amazon](https://www.aboutamazon.com/)
 
@@ -57,6 +57,10 @@ Companies in private industry that regularly hire knowledge graph engineers.
 [Rancho biosciences](https://ranchobiosciences.com/)
 
 [Intelligent Medical Objects](https://www.imohealth.com/)
+
+[Semantic Arts](https://www.semanticarts.com/careers/)
+
+[Semantic Partners](https://www.semanticpartners.com/hiring/)
 
 ## Database Vendors
 
