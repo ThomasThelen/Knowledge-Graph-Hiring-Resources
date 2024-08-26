@@ -8,6 +8,8 @@ Companies in private industry that regularly hire knowledge graph engineers.
 
 [PoolParty](https://www.poolparty.biz)
 
+[Semmtech](https://semmtech.com/)
+
 [VEsoft](https://vesoft.com/)
 
 [BigBear.ai](https://careers.bigbear.ai/jobs)
